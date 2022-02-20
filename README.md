@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![perfil](https://user-images.githubusercontent.com/1643177/154865916-b6f8f12c-fee4-43fb-8b35-0b0128d439a8.gif)
+                            
 <!--
 **neverkas/neverkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
