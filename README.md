@@ -1,18 +1,21 @@
-### Hi there 👋
+### Hi there, I'm not an evil person I'm just a programmer 👋
+
+```javascript
+// Comments that I'd remember 0_0
+//
+// Day 1:
+// I am not sure if we need this, but too scared to delete. 
+//
+//  Day 2:
+// I am not responsible of this code.
+// They made me write it, against my will
+//
+// Day 3:
+// I am not sure why this works but it fixes the problem. 
+//
+// Day 4:
+// hack for ie browser (assuming that ie is a browser)
+//
+```
 
 ![perfil](https://user-images.githubusercontent.com/1643177/154865916-b6f8f12c-fee4-43fb-8b35-0b0128d439a8.gif)
-                            
-<!--
-**neverkas/neverkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
