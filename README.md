@@ -1,9 +1,15 @@
 ### Hi there, I'm not an evil person I'm just a programmer 👋
 
 ```javascript
-// things that everyone should know
-//
-// 1. Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler 
+/*
+* things that everyone should know
+*
+* 1. Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+* By Martin Fowler 
+*
+* 2. The only way to learn a new programming language is by writing programs in it.
+* By Kernighan and Ritchie 
+*/
 ```
 
 ```javascript
