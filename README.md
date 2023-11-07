@@ -5,10 +5,14 @@
 * things that everyone should know
 *
 * 1. Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-* By Martin Fowler 
+* Written by Martin Fowler 
 *
 * 2. The only way to learn a new programming language is by writing programs in it.
-* By Kernighan and Ritchie 
+* Written by Kernighan and Ritchie
+*
+* 3. Code never lies, comments sometimes do.
+* Written by Ron Jeffries
+*
 */
 ```
 
