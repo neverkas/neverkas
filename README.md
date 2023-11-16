@@ -13,6 +13,12 @@
 * 3. Code never lies, comments sometimes do.
 * Written by Ron Jeffries
 *
+*
+* 4. In May of 1999, we were able to debug and fix a race condition that had not shown up during ground testing.
+* Debugging a program running on a $100M piece of hardware that is 100 million km away is an interesting experience.
+* Having a (REPL) read-eval-print-loop running on the spacecraft proved invaluable in finding and fixing the problem.
+* Written by Ron Garret NASA Jet Propulsion Lab Engineer
+*
 */
 ```
 
