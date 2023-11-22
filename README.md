@@ -1,5 +1,17 @@
 ### Hi there, I'm not an evil person I'm just a programmer 👋
 
+## Activity Statistics
+<!--
+comentado hasta momento de contribuir a la comunidad XD
+[![GitHub Streak](https://github-readme-streak-stats-fork.vercel.app?user=neveras&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neverkas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neverkas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neverkas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neverkas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neverkas&theme=dracula&utcOffset=8) 
+
 ## Contact & Social Media
   <a href="https://coding-stuff.zulipchat.com/#narrow/stream/413960-general" target="blank">
     <img height="64" width="64" src="https://cdn.simpleicons.org/zulip/green" />
@@ -10,13 +22,6 @@
   <a href="mailto:neverkas@proton.me" target="blank">
     <img height="64" width="64" src="https://cdn.simpleicons.org/proton/darkpurple" />
   </a>
-
-## Activity Statistics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neverkas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neverkas&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neverkas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neverkas&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neverkas&theme=dracula&utcOffset=8) 
 
 ## Fun Stuff
 
